@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 sebas papito nyanya
 
+=======
+>>>>>>> develop
 nueva linea desde develop :v
